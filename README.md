@@ -34,4 +34,7 @@ You can verify my certificate here:
 ## 🚀 Purpose
 This repository is part of my learning journey towards becoming a Data Analyst. It showcases my commitment to building real-world analytical skills.
 
+## 📌 Key Highlight
+Completed Deloitte's real-world data analytics simulation, focusing on business problem-solving and forensic data analysis.
+
 ---
